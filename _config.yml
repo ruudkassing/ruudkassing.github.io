@@ -15,7 +15,13 @@ locale                   : "en"
 description: >-
   Project and research homepage of Ruud Kassing
 masthead_title: " "
-google_analytics: "G-G4770DNMEF"
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-G4770DNMEF"
+    anonymize_ip         : false
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes
