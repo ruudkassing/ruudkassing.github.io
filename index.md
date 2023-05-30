@@ -3,13 +3,13 @@ title: "About"
 layout: single
 classes: wide
 author_profile: true
-read_time: true
+read_time: false
 excerpt: 'Control system developer based in Utrecht area.'
 ---
 
 *During my time studying in Delft, I developed a strong interest in solving optimization problems, particularly in control systems. From solving simple problems in student projects to working on university research projects and authoring papers on optimal control of water and irrigation systems, my passion grew. Now, I am driven to apply my technical and analytical skills to address real-world challenges and contribute to enhancing energy efficiency and reducing emissions for a sustainable society.*
 
-## Current Position
+---
 I'm currently working for [Royal HaskoningDHV](https://www.royalhaskoningdhv.com/) in Amersfoort, as a full-time **Control System Developer**, since October 2019.
 
 In my role as a control system developer within the Algorithm team at [Twinn](https://twinn.io), specializing in Water Technology, my responsibilities include designing, evaluating, and implementing **optimal control algorithms** for our range of products. This involves modelling system dynamics, developing efficient and robust optimization algorithms, and seamlessly integrating these advanced solutions into our existing products. Additionally, I focus on enhancing our **machine learning solutions** to improve the detection of anomalies in sewer networks to prevent overflows.
